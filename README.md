@@ -32,4 +32,4 @@ AI Models: Gemini and ChatGPT for SQL and DAX code generation and debugging, as 
 📈 Project Outcomes
 This project successfully demonstrates a modern, AI-augmented data analysis pipeline. It serves as a practical example of how AI can be a powerful partner in the data workflow, from initial data prep to final visualization, enabling a more efficient and innovative approach to business intelligence.
 
-![Dashboard Screenshot](images/Banking Dashboard.png)
+![Banking Dashboard.png](https://github.com/rajeshchowhan/Banking-Data-Analysis-with-AI/blob/256465426df50e7b90173cd68aca8f710dc852d4/Banking%20Dashboard.png)
